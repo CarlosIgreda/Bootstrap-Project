@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap-project",
+  "version": "1.0.0",
+  "description": "M1W3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosIgreda/Bootstrap-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosIgreda/Bootstrap-Project/issues"
+  },
+  "homepage": "https://github.com/CarlosIgreda/Bootstrap-Project#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1"
+  }
+}

@@ -1,0 +1,98 @@
+$primary: #396df2;
+$secondary:#ffff;
+$info: #ebebff;
+$dark: #6070ff;
+
+
+@import"./node_modules/bootstrap/scss/bootstrap.scss";
+
+$text-frame2: #6b778b;
+$card-text: #344563;
+$card-title-color: #091e42;
+$font-family-general: 'Poppins', sans-serif;
+
+$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+  "info": $info
+);
+
+$text-frame2: #6b778b;
+$card-text: #344563;
+$card-title-color: #091e42;
+
+.card-container {
+  
+  flex-direction: row;
+     
+}
+#card-margin {
+    margin-bottom: 141px;
+}
+
+.list-group-item {
+  border: none;
+  color: $text-frame2;
+  padding-left: 0;
+}
+
+.card-container{
+  margin-inline-start: 8%;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+
+.first-item {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+.card-text {
+  font-family:  $font-family-general;
+  color: $card-text;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.card-title {
+  font-family: $font-family-general;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+  color: $card-title-color;
+}
+
+.tech-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 40px;
+  padding-left: 0;
+  
+  li {
+    margin-right: 8px;
+  }
+}
+
+#snapshot {
+    width: 96%;
+    height: 96%;
+    padding-top: 4%
+}
+
+.btn {
+  transition: all 300ms ease-in-out;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+}
+
+.badge {
+  transition: all 300ms ease-in-out;
+}
+
+.badge:hover {
+  transform: scale(1.3);
+}
