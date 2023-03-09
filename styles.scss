@@ -1,5 +1,58 @@
-$color-text-buttom: #396df2;
+$primary: #396df2;
+$info: #ebebff;
+$dark: #6070ff;
 
-.btn btn-outline-primary {
-  color: $color-text-buttom;
+
+
+@import"./node_modules/bootstrap/scss/bootstrap.scss";
+
+$text-frame2: #6b778b;
+$card-text: #344563;
+$card-title-color: #091e42;
+$font-family-general: 'Poppins', sans-serif;
+
+$theme-colors: (
+  "primary": $primary,
+  "info": $info
+);
+
+
+$text-frame2: #6b778b;
+$card-text: #344563;
+$card-title-color: #091e42;
+
+.badge bg-info text-dark {
+  background-color: $badge-color;
 }
+
+.list-group-item {
+  border: none;
+  color: $text-frame2;
+}
+
+.card-text {
+  font-family: $font-family-general;
+  color: $card-text;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.card-title {
+  font-family: $font-family-general;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 52px;
+  color: $card-title-color;
+}
+
+.tech-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 40px;
+  
+  li {
+    margin-right: 8px;
+  }
+}
+
