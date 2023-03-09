@@ -11724,6 +11724,10 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.card-container {
+  flex-direction: row;
+}
+
 #card-margin {
   margin-bottom: 141px;
 }
@@ -11732,6 +11736,13 @@ textarea.form-control-lg {
   border: none;
   color: #6b778b;
   padding-left: 0;
+}
+
+.card-container {
+  -webkit-margin-start: 8%;
+          margin-inline-start: 8%;
+  margin-bottom: 5%;
+  margin-top: 5%;
 }
 
 .first-item {
@@ -11764,4 +11775,10 @@ textarea.form-control-lg {
 }
 .tech-list li {
   margin-right: 8px;
+}
+
+#snapshot {
+  width: 96%;
+  height: 96%;
+  padding-top: 4%;
 }/*# sourceMappingURL=styles.css.map */
