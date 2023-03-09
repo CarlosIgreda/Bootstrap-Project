@@ -11724,13 +11724,20 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-.badge bg-info text-dark {
-  background-color: #fff;
+#card-margin {
+  margin-bottom: 141px;
 }
 
 .list-group-item {
   border: none;
   color: #6b778b;
+  padding-left: 0;
+}
+
+.first-item {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
 }
 
 .card-text {
@@ -11743,7 +11750,7 @@ textarea.form-control-lg {
 .card-title {
   font-family: "Poppins", sans-serif;
   font-size: 40px;
-  font-weight: 400;
+  font-weight: 700;
   line-height: 52px;
   color: #091e42;
 }
@@ -11753,6 +11760,7 @@ textarea.form-control-lg {
   display: flex;
   flex-direction: row;
   margin-bottom: 40px;
+  padding-left: 0;
 }
 .tech-list li {
   margin-right: 8px;
