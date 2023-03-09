@@ -63,7 +63,7 @@ In this project, we applied some bootstrap components (cards, buttons, badges). 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://carlosigreda.github.io)
+- [Live Demo Link](https://carlosigreda.github.io/Bootstrap-Project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
