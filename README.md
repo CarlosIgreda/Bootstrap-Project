@@ -95,7 +95,7 @@ Clone this repository to your desired folder:
 **Carlos Igreda**
 - GitHub: [@CarlosIgreda](https://github.com/CarlosIgreda)
 - Twitter: [@carlosigreda](https://twitter.com/carlosigreda)
-- LinkedIn: [carlos-jesús-igreda-rivas-323763116](https://www.linkedin.com/in/carlos-jes%C3%BAs-igreda-rivas-323763116/)
+- LinkedIn: [carlos-jesús-igreda-rivas-323763116](https://www.linkedin.com/in/carlosigreda)
 
 **Dany Augustin**
 - GitHub: [@amiralda](https://github.com/amiralda)
